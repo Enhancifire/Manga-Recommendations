@@ -1,0 +1,8 @@
+flask
+requests
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Bootstrap
+Flask-WTF
+email-validator
+
